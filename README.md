@@ -20,3 +20,6 @@ Continuing the project, the focus shifts to enhancing system observability by de
 ![image](https://github.com/AbhinavB7/LQR-LQG-Controllers-for-a-Moving-Crane/assets/87815926/be7a9a7c-198a-44ec-a8ea-510ecd037a19)
 
 In the subsequent phase, an output feedback controller is crafted using the LQG method, emphasizing efficiency in utilizing the "smallest" output vector for control. The designed controller is then applied to the original nonlinear system, and its performance is rigorously examined through simulation. Exploring reconfiguration possibilities, considerations for achieving asymptotic tracking of a constant reference on the x-axis are undertaken. Furthermore, the controller's robustness is assessed against constant force disturbances on the cart, ensuring its effectiveness in real-world applications. This holistic approach aims to provide a well-rounded understanding of the control strategies and their applicability to the dynamic crane and load system.
+
+
+Contact me for the MATLAB code.
